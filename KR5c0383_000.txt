@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:59:02.949923
-#+TITLE: 萃善錄
-#+PROPERTY: DZID  DZ0983
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—883 二卷 洞神部表奏類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
